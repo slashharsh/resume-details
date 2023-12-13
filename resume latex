@@ -1,0 +1,90 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Harsh Mangal} % Your name
+% You can merge both of these into a single line, if you do not have a website.
+\address{+91-8890558846 \\ Abu Road, Rajasthan} 
+\address{\href{mailto:harsh.mangal1108@gmail.com}{harsh.mangal1108@gmail.com} \\ \href{https://linkedin.com/in/slashharsh}{linkedin.com/in/slashharsh} \\ \href{https://github.com/slashharsh}{github.com/slashharsh}}  %
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{OBJECTIVE}
+
+{Software Engineer with 2+ years of experience in XXX, seeking full-time XXX roles.}
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHINICAL STRENGTHS	
+%----------------------------------------------------------------------------------------
+\begin{rSection}{SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Languages & Java, Python, MySQL, PL/SQL 
+\\
+Frameworks & Spring Boot, JUnit, Spring REST, Hibernate\\
+Cloud Technologies & Azure, Amazon Web Services\\
+\end{tabular}\\
+\end{rSection}
+
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Role Name} \hfill Jan 2017 - Jan 2019\\
+Company Name \hfill \textit{San Francisco, CA}
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item Achieved X\% growth for XYZ using A, B, and C skills.
+     \item Led XYZ which led to X\% of improvement in ABC
+    \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+ \end{itemize}
+ 
+\textbf{Role Name} \hfill Jan 2017 - Jan 2019\\
+Company Name \hfill \textit{San Francisco, CA}
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item Achieved X\% growth for XYZ using A, B, and C skills.
+     \item Led XYZ which led to X\% of improvement in ABC
+    \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+ \end{itemize}
+
+\end{rSection} 
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+\vspace{-1.25em}
+\item \textbf{Web-Based Code IDE.} {Built a IDE to practice coding for College Students by using JavaScript, HTML, CSS, Containerized into Docker and Deployed it to Azure Cloud Virtual Machine. Supported over 5+ popular programming languages like Java, Python, C++ etc.}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Chartered Institute of Technology, Rajasthan } \hfill {2017 - 2021}\\
+B.Tech - Computer Science and Engineering
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Leadership SECTION
+%---------------------------------------------------------------------------------------- 
+\begin{rSection}{Leadership and Awards} 
+\begin{itemize}
+    \item Recognized twice by Infosys - first for exceptional performance in migrating applications to the Cloud and then acknowledged separately as a Learning Champ for dedicated commitment in learning technology and skills. 
+    \item Recognized by PayU, acknowledged for demonstrating a strong sense of ownership, consistently surpassing customer expectations, and maintaining exceptional customer satisfaction scores. 
+\end{itemize}
+
+
+\end{rSection}
+
+\end{document}
