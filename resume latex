@@ -11,28 +11,8 @@
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%	OBJECTIVE
+%	WORK EXPERIENCE SECTION
 %----------------------------------------------------------------------------------------
-
-\begin{rSection}{OBJECTIVE}
-
-{Software Engineer with 2+ years of experience in XXX, seeking full-time XXX roles.}
-
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-% TECHINICAL STRENGTHS	
-%----------------------------------------------------------------------------------------
-\begin{rSection}{SKILLS}
-
-\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-Languages & Java, Python, MySQL, PL/SQL 
-\\
-Frameworks & Spring Boot, JUnit, Spring REST, Hibernate\\
-Cloud Technologies & Azure, Amazon Web Services\\
-\end{tabular}\\
-\end{rSection}
 
 \begin{rSection}{EXPERIENCE}
 
@@ -55,9 +35,17 @@ Company Name \hfill \textit{San Francisco, CA}
  \end{itemize}
 
 \end{rSection} 
+%----------------------------------------------------------------------------------------
+% TECHINICAL STRENGTHS	
+%----------------------------------------------------------------------------------------
+\begin{rSection}{SKILLS}
+
+Java, Python, MySQL, PL/SQL, Spring Boot, JUnit, Hibernate, Azure, AWS, Docker, Jenkins, Gitlab, Linux, Maven, Agile, Scrum
+
+\end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	WORK EXPERIENCE SECTION
+%	PROJECT SECTION
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{PROJECTS}
@@ -73,6 +61,22 @@ Company Name \hfill \textit{San Francisco, CA}
 
 {\bf Chartered Institute of Technology, Rajasthan } \hfill {2017 - 2021}\\
 B.Tech - Computer Science and Engineering
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Certification SECTION
+%---------------------------------------------------------------------------------------- 
+\begin{rSection}{Certifications} 
+\begin{itemize}
+    \item Infosys Certified Spring Boot Developer
+    \item Infosys Certified Front End Web Developer
+    \item Infosys Certified Agile Developer
+    \item Infosys Certified Spring Professional
+    \item Microsoft Certified: Azure Fundamentals (AZ-900)
+    \item Red Hat Certified System Administrator
+\end{itemize}
+
+
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
