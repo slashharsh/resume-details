@@ -7,37 +7,41 @@
 % You can merge both of these into a single line, if you do not have a website.
 \address{+91-8890558846 \\ Abu Road, Rajasthan} 
 \address{\href{mailto:harsh.mangal1108@gmail.com}{harsh.mangal1108@gmail.com} \\ \href{https://linkedin.com/in/slashharsh}{linkedin.com/in/slashharsh} \\ \href{https://github.com/slashharsh}{github.com/slashharsh}}  %
-
+\vspace{-3pt}
 \begin{document}
 
 %----------------------------------------------------------------------------------------
 %	WORK EXPERIENCE SECTION
 %----------------------------------------------------------------------------------------
-
+\vspace{-3pt}
 \begin{rSection}{EXPERIENCE}
 
-\textbf{Role Name} \hfill Jan 2017 - Jan 2019\\
-Company Name \hfill \textit{San Francisco, CA}
+\textbf{System Engineer} \hfill Feb 2022 - Present\\
+Infosys Ltd. \hfill \textit{Jaipur, Rajasthan}
  \begin{itemize}
     \itemsep -3pt {} 
-     \item Achieved X\% growth for XYZ using A, B, and C skills.
-     \item Led XYZ which led to X\% of improvement in ABC
-    \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+    \item Worked for ICA Group (Sweden) to develop and maintain backend applications using Java and Spring Boot framework.
+     \item Successfully migrated their critical GDPR system application from Azure Logic Apps workflows to Java based application, which resulted in 40\% more efficient and stable solution.
+    \item Developed APIs that delivered store items data to over 1000+  retail stores using Spring REST framework.     
+     \item Created and optimized PL/SQL scripts for stored procedures, views, and tables, to manage Oracle database housing critical business objects data ensuring efficient data management and retrieval.
+     \item Built CI/CD pipelines through Jenkins, Gitlab which resulted in the smooth deployment of applications onto the Oracle Cloud Kubernetes service (OKE).
+
  \end{itemize}
  
-\textbf{Role Name} \hfill Jan 2017 - Jan 2019\\
-Company Name \hfill \textit{San Francisco, CA}
+\textbf{Software Engineer Intern} \hfill Jul 2021 - Nov 2021\\
+PayU \hfill \textit{Gurgaon, Haryana}
  \begin{itemize}
     \itemsep -3pt {} 
-     \item Achieved X\% growth for XYZ using A, B, and C skills.
-     \item Led XYZ which led to X\% of improvement in ABC
-    \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+    \item Ensured seamless integration of payment gateway services with client products, Worked closely with cross functional team and clients to meet project requirements, and desired functionality
+     \item Resolved complex Payment gateway integration issues faced by merchant using tools like Jenkins, Kibana for log analysis resulting in 80\% reduction in customer complaints.
+    \item Tested payment flows APIs, validating their functionality and reliability for a smooth transactional experience. 
  \end{itemize}
 
 \end{rSection} 
 %----------------------------------------------------------------------------------------
 % TECHINICAL STRENGTHS	
 %----------------------------------------------------------------------------------------
+\vspace{-3pt}
 \begin{rSection}{SKILLS}
 
 Java, Python, MySQL, PL/SQL, Spring Boot, JUnit, Hibernate, Azure, AWS, Docker, Jenkins, Gitlab, Linux, Maven, Agile, Scrum
@@ -47,7 +51,7 @@ Java, Python, MySQL, PL/SQL, Spring Boot, JUnit, Hibernate, Azure, AWS, Docker, 
 %----------------------------------------------------------------------------------------
 %	PROJECT SECTION
 %----------------------------------------------------------------------------------------
-
+\vspace{-3pt}
 \begin{rSection}{PROJECTS}
 \vspace{-1.25em}
 \item \textbf{Web-Based Code IDE.} {Built a IDE to practice coding for College Students by using JavaScript, HTML, CSS, Containerized into Docker and Deployed it to Azure Cloud Virtual Machine. Supported over 5+ popular programming languages like Java, Python, C++ etc.}
@@ -56,7 +60,7 @@ Java, Python, MySQL, PL/SQL, Spring Boot, JUnit, Hibernate, Azure, AWS, Docker, 
 %----------------------------------------------------------------------------------------
 %	EDUCATION SECTION
 %----------------------------------------------------------------------------------------
-
+\vspace{-3pt}
 \begin{rSection}{Education}
 
 {\bf Chartered Institute of Technology, Rajasthan } \hfill {2017 - 2021}\\
@@ -65,15 +69,16 @@ B.Tech - Computer Science and Engineering
 
 %----------------------------------------------------------------------------------------
 %	Certification SECTION
-%---------------------------------------------------------------------------------------- 
+%----------------------------------------------------------------------------------------
+\vspace{-3pt}
 \begin{rSection}{Certifications} 
 \begin{itemize}
-    \item Infosys Certified Spring Boot Developer
-    \item Infosys Certified Front End Web Developer
-    \item Infosys Certified Agile Developer
-    \item Infosys Certified Spring Professional
-    \item Microsoft Certified: Azure Fundamentals (AZ-900)
-    \item Red Hat Certified System Administrator
+    \item Infosys Certified Spring Boot Developer \vspace{-5pt}
+    \item Infosys Certified Front End Web Developer \vspace{-5pt}
+    \item Infosys Certified Agile Developer \vspace{-5pt}
+    \item Infosys Certified Spring Professional \vspace{-5pt}
+    \item Microsoft Certified: Azure Fundamentals (AZ-900) \vspace{-5pt}
+    \item Red Hat Certified System Administrator \vspace{-5pt}
 \end{itemize}
 
 
@@ -82,6 +87,7 @@ B.Tech - Computer Science and Engineering
 %----------------------------------------------------------------------------------------
 %	Leadership SECTION
 %---------------------------------------------------------------------------------------- 
+\vspace{-3pt}
 \begin{rSection}{Leadership and Awards} 
 \begin{itemize}
     \item Recognized twice by Infosys - first for exceptional performance in migrating applications to the Cloud and then acknowledged separately as a Learning Champ for dedicated commitment in learning technology and skills. 
