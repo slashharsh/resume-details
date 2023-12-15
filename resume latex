@@ -16,7 +16,7 @@
 \vspace{-3pt}
 \begin{rSection}{EXPERIENCE}
 
-\textbf{System Engineer} \hfill Feb 2022 - Present\\
+\textbf{Systems Engineer} \hfill Feb 2022 - Present\\
 Infosys Ltd. \hfill \textit{Jaipur, Rajasthan}
  \begin{itemize}
     \itemsep -3pt {} 
@@ -33,8 +33,8 @@ PayU \hfill \textit{Gurgaon, Haryana}
  \begin{itemize}
     \itemsep -3pt {} 
     \item Ensured seamless integration of payment gateway services with client products, Worked closely with cross functional team and clients to meet project requirements, and desired functionality
-     \item Resolved complex Payment gateway integration issues faced by merchant using tools like Jenkins, Kibana for log analysis resulting in 80\% reduction in customer complaints.
-    \item Tested payment flows APIs, validating their functionality and reliability for a smooth transactional experience. 
+     \item Resolved complex payment gateway integration issues faced by merchant using tools like Jenkins, Kibana for log analysis resulting in 80\% reduction in customer complaints.
+    \item Tested payment flow APIs, validating their functionality and reliability for a smooth transactional experience. 
  \end{itemize}
 
 \end{rSection} 
@@ -44,7 +44,7 @@ PayU \hfill \textit{Gurgaon, Haryana}
 \vspace{-3pt}
 \begin{rSection}{SKILLS}
 
-Java, Python, MySQL, PL/SQL, Spring Boot, JUnit, Hibernate, Azure, AWS, Docker, Jenkins, Gitlab, Linux, Maven, Agile, Scrum
+Java, Python, C++, MySQL, PL/SQL, Spring Boot, JUnit, Hibernate, Azure, AWS, Docker, Jenkins, Gitlab, Linux, Maven, Agile, Scrum
 
 \end{rSection}
 
@@ -54,7 +54,7 @@ Java, Python, MySQL, PL/SQL, Spring Boot, JUnit, Hibernate, Azure, AWS, Docker, 
 \vspace{-3pt}
 \begin{rSection}{PROJECTS}
 \vspace{-1.25em}
-\item \textbf{Web-Based Code IDE.} {Built a IDE to practice coding for College Students by using JavaScript, HTML, CSS, Containerized into Docker and Deployed it to Azure Cloud Virtual Machine. Supported over 5+ popular programming languages like Java, Python, C++ etc.}
+\item \textbf{Web-Based Code IDE.} {Built a IDE to practice coding for College Students by using JavaScript, HTML, CSS, containerized into Docker and deployed it to Azure Cloud Virtual Machine. The IDE supported over 5+ popular programming languages like Java, Python, C++ etc.}
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
